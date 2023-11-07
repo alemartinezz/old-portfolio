@@ -1,0 +1,18 @@
+---
+author: No author.
+tags:
+  - knowledge
+  - comp-sci
+  - projects
+  - old-portfolio
+  - vendor
+  - font-awesome
+  - scss
+description: No description.
+---
+// Fixed Width Icons
+// -------------------------
+.#{$fa-css-prefix}-fw {
+  width: (18em / 14);
+  text-align: center;
+}
